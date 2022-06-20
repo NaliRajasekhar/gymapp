@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View>
       <Text>
-        Hello world
+        Universee 
       </Text>
       </View>
   )
